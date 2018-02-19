@@ -9,6 +9,6 @@ Gets you the latest crypto market cap info right on your desktop!
 
 (How to install widgets [link](http://tracesof.net/uebersicht-widgets/#installation))
 
-Modified from Sebastian Stiernborg's cryptowidget (BSD-2-Clause)
-
 ![Screenshot](https://github.com/zhanchengqian/marketcapwidget/blob/master/screenshot.png)
+
+Modified from Sebastian Stiernborg's cryptowidget (BSD-2-Clause)
