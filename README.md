@@ -1,4 +1,4 @@
-# marketcapwidget
+# marketcap-widget
 ## Cryptocurrency Market Cap Desktop Widget for Mac OS (Übersicht).
 
 Gets you the latest crypto market cap info right on your desktop!
